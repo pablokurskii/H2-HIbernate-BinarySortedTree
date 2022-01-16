@@ -1,0 +1,3 @@
+rootProject.name = 'H2-HIbernate-BinarySortedTree'
+include 'Nodes'
+
